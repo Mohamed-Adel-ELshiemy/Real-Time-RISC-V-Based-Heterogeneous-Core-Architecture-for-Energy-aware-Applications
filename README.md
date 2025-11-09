@@ -47,10 +47,12 @@ The main contribution to the total power consumption is provided by the prefetch
 ● The multiplier unit contains one Multiply And Accumulate (MAC) unit, which is able to sequentially multiply two 16 bit operands and accumulate the result in a 32 bit register.
  
 ● Zero-Riscy has an interrupt controller that can control 32 intrupts at a time.
+<img width="975" height="337" alt="image" src="https://github.com/user-attachments/assets/a0f5197d-1e50-4643-a6a3-69e57ae0e298" />
 
 ● Zero-Riscy ALU Block diagram:
 The ALU contains the minimal hardware resources to implement the RVC32IM ISA: one 32-bit adder, one 32-bit shifter, and the logic unit.
 Here is a simplified block diagram of the Zero-riscy ALU. The adder is shared between additions/subtractions, branches, address generation for load/store operations and divisions.
+<img width="975" height="771" alt="image" src="https://github.com/user-attachments/assets/fd29e3d7-d824-4db3-aeb9-102e4aa54cd5" />
 
 We know that the adder is the main block which used for arithmetic and logical unit. So, We used an approximate adder with four accuracy levels for minimizing the total dynamic power consumption as much as possible.
 
