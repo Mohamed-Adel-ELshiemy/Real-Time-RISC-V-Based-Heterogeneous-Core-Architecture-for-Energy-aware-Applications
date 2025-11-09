@@ -3,19 +3,21 @@ This work presents a smart architecture that addresses this issue by dynamically
 
 Nile University
 NISC Center
-Digital IC Design Research Assistant
+Digital IC Design (FPGA & ASIC) Research Assistant
 
 Presented by:
 
 Mohamed Adel Elshiemy
 
-Subject: Glucose monitoring Project
-Using
+Subject: Glucose monitoring Project Using
+
 " Zero-Riscy Processor Based on RISC-V" 
 
-Under supervision of:
-Dr: Ahmed Soltan
+Under supervision of: Dr: Ahmed Soltan
 
+################################################################################################################################
+This work you can find it in my publication pdf wich is uploaded here or throught the following DIO on IEEE explore website:  M. A. Elshiemy and A. Soltan, "Comprehensive Compliance Framework for RISC-V Architectures using the RISCOF Test Platform," 2025 IEEE International Symposium on Circuits and Systems (ISCAS), London, United Kingdom, 2025, pp. 1-5, doi: https://doi.org/10.1109/ISCAS56072.2025.11043314.
+################################################################################################################################
 
 ######### Zero-Riscy RISC-V-Based Processor ############
 
