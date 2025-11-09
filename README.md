@@ -1,2 +1,2 @@
 # Real-Time-RISC-V-Based-Heterogeneous-Core-Architecture-for-Energy-aware-Applications
-This paper presents a smart architecture that addresses this issue by dynamically changing the configuration of the processing unit according to the realtime change in battery levels. To cope with these dynamics, three different RISC-V processing cores are used to provision them with three different configurations.
+This work presents a smart architecture that addresses this issue by dynamically changing the configuration of the processing unit according to the realtime change in battery levels. To cope with these dynamics, three different RISC-V processing cores are used to provision them with three different configurations.
